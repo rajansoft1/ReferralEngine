@@ -2,6 +2,7 @@
   "name": "refferalengine",
   "private": true,
   "dependencies": {
+
     "bootstrap": "~3.0.3",
     "jquery": "~1.11.0",
     "jquery-pjax": "~1.9.2"
